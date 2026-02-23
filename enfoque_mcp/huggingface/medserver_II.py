@@ -1,4 +1,6 @@
 import os
+#os.environ["HF_TOKEN"] = 
+#os.environ["MISTRAL_API_KEY"] 
 import logging
 import pandas as pd
 from typing import Optional
