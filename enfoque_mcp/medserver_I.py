@@ -1,6 +1,5 @@
 import os
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 os.environ["HF_TOKEN"] = os.environ["HUGGINGFACEHUB_API_TOKEN"]
 
 from mcp.server.fastmcp import FastMCP
